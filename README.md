@@ -5,8 +5,6 @@
 > 承认吧，我们是弱者，正因为生来什么都没有，因此我们能拥有一切，以身为弱者而骄傲吧！——《游戏人生》
 
 * [在线阅读](https://lvcs1619.apachecn.org)
-* [在线阅读（Gitee）](https://apachecn.gitee.io/doc-template/)
-* [ApacheCN 学习资源](http://docs.apachecn.org/)
 
 ## 红丸十二条军规
 
@@ -34,18 +32,6 @@
 
 +   ManHelpsMan：男性应当有自己的小圈子，互帮互助，让男性（不是某个人）整体利益最大化。
 
-## 联系方式
-
-### 负责人
-
-* [飞龙](https://github.com/jiangzhonglian): 562826179
-
-### 其他
-
-*   在我们的 [apachecn/love-course-2016-2019](https://github.com/apachecn/love-course-2016-2019) github 上提 issue.
-*   发邮件到 Email: `apachecn@163.com`.
-*   在我们的 [组织学习交流群](http://www.apachecn.org/organization/348.html) 中联系群主/管理员即可.
-
 ## 下载
 
 ### Docker
@@ -56,13 +42,6 @@ docker run -tid -p <port>:80 apachecn0/love-course-2016-2019
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
-
-```
-pip install love-course-2016-2019
-love-course-2016-2019 <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -72,6 +51,6 @@ love-course-2016-2019 <port>
 # 访问 http://localhost:{port} 查看文档
 ```
 
-## 赞助我们
+## 赞助我
 
-![](http://data.apachecn.org/img/about/donate.jpg)
+![](https://img-blog.csdnimg.cn/20200112005920729.png)
