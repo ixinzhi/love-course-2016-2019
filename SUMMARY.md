@@ -3,4 +3,5 @@
 +   [蜜果](docs/mi-guo/README.md)
 +   [魔卡](docs/mo-ka/README.md)
 +   [爱上](docs/ai-shang/README.md)
++   [路易](docs/lu-yi/README.md)
 +   [杂项](docs/misc/README.md)
