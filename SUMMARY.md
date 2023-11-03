@@ -5,4 +5,5 @@
 +   [爱上](docs/ai-shang/README.md)
 +   [路易](docs/lu-yi/README.md)
 +   [乐鱼](docs/le-yu/README.md)
++   [摸鱼](docs/mo-yu/README.md)
 +   [杂项](docs/misc/README.md)
