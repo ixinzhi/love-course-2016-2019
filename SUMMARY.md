@@ -9,4 +9,5 @@
 +   [瑞恩](docs/rui-en/README.md)
 +   [欧阳浮夸](docs/ou-yang/README.md)
 +   [乌鸦](docs/wu-ya/README.md)
++   [闪恋会](docs/shan-lian-hui/README.md)
 +   [杂项](docs/misc/README.md)
