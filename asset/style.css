@@ -1,11 +1,11 @@
     /*隐藏头部的目录*/
-    #main>ul:nth-child(1) {
+    /*#main>ul:nth-child(1) {
         display: none;
     }
 
     #main>ul:nth-child(2) {
         display: none;
-    }
+    }*/
 
     .markdown-section h1 {
         margin: 3rem 0 2rem 0;
